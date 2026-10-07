@@ -11,7 +11,7 @@
 # EduApplication
 
 ## Overview
-
+t
 EduApplication is a Flask-based educational platform that allows users to access programming and cloud courses while tracking learning progress.
 The platform supports multiple course categories including **C, C++, Java, Python, AWS, and Azure**.
 
